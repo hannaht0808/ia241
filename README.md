@@ -27,3 +27,5 @@ share my labs and final projects of ia241
 * item1
 * item2
 * item3
+
+[lab1](https://github.com/hannaht0808/ia241/blob/main/lab1.py)
