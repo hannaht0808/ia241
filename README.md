@@ -29,3 +29,5 @@ share my labs and final projects of ia241
 * item3
 
 [lab1](https://github.com/hannaht0808/ia241/blob/main/lab1.py)
+
+![jmuimage] (https://www.jmu.edu/_images/_story-rotator/full-width-images/choices2-2000x666.jpg)
